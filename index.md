@@ -13,10 +13,10 @@ In Proceedings of the thirteenth European conference on computer systems (EuroSy
 (acceptance rate of 16.4%) To appear.<br />
 
 [LATR: Lazy Translation Coherence (to appear)<br />](./data/latr-asplos18.pdf)
-Mohan Kumar*, **Steffen Maass***, Sanidhya Kashyap, Jan Vesely, Zi Yan, Taesoo Kim, Abhishek Bhattacharjee, and Tushar Krishna.<br />
+Mohan Kumar\*, **Steffen Maass\***, Sanidhya Kashyap, Jan Vesely, Zi Yan, Taesoo Kim, Abhishek Bhattacharjee, and Tushar Krishna.<br />
 In proceedings of the 23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2018), Williamsburg, VA, USA.<br />
 (acceptance rate of 17.6%).<br />
-*** marks joint first authors**
+**\* marks joint first authors**
 
 [Mosaic: Processing a Trillion-Edge Graph on a Single Commodity Machine<br />](./data/mosaic.pdf)
 Steffen Maass, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, **Mohan Kumar**, and Taesoo Kim.<br />
