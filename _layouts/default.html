@@ -68,12 +68,14 @@
     <script type="text/javascript">
         (function (_) {
 			jQuery(document).ready(function($) {
-              $("a").on("click", function(){
-                var link = $(this).attr("href");
-                ga('send', {
-                    hitType: 'pageview',
-                    page: link
-                });
+              $("a").mousedown(function(event){
+                if (event.which == 1 || event.which == 2) {
+                    var link = $(this).attr("href");
+                    ga('send', {
+                        hitType: 'pageview',
+                        page: link
+                    });
+                }
               });
 			});
         })(jQuery);
