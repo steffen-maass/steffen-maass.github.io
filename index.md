@@ -9,19 +9,19 @@ Systems, and Graph Processing.
 
 ### SOLROS: A Data-Centric Operating System Architecture for Heterogeneous Computing (to appear)
 Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, Heeseung Jo, and Taesoo Kim.<br />
-In proceedings of the _thirteenth European conference on computer systems (EuroSys 2018)_, Porto, Portugal.<br />
-(acceptance rate of 16.4%).<br />
+In proceedings of the _thirteenth European conference on computer systems (EuroSys 2018)_, <br />
+Porto, Portugal, April 2018 (Acceptance rate of 16.4%).<br />
 
 ### [LATR: Lazy Translation Coherence (to appear)](./data/latr-asplos18.pdf)
 Mohan Kumar\*, **Steffen Maass\***, Sanidhya Kashyap, Jan Vesely, Zi Yan, Taesoo Kim, Abhishek Bhattacharjee, and Tushar Krishna.<br />
-In proceedings of the _23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2018)_, Williamsburg, VA, USA.<br />
-(acceptance rate of 17.6%).<br />
+In proceedings of the _23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2018)_.<br />
+Williamsburg, VA, USA, March 2018 (Acceptance rate of 17.6%).<br />
 **\* marks joint first authors**
 
 ### [Mosaic: Processing a Trillion-Edge Graph on a Single Commodity Machine](./data/mosaic-eurosys17.pdf)
 **Steffen Maass**, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim.<br />
-In proceedings of the _twelfth European conference on computer systems (EuroSys 2017)_, Belgrade, Serbia.<br />
-(acceptance rate of 20.5%)<br />
+In proceedings of the _twelfth European conference on computer systems (EuroSys 2017)_<br />
+Belgrade, Serbia, April 2017 (Acceptance rate of 20.5%)<br />
 **Awarded the <span style="color: #d9534f;">best student paper</span> award\!** <br />
 [\[Paper\]](http://dl.acm.org/authorize?N38846)
 [\{Slides\]](./data/mosaic-slides-eurosys17.pdf)
@@ -34,6 +34,11 @@ Coverage:
 [Georgia Tech News I](http://www.cc.gatech.edu/news/591078/work-speed-graph-processing-earns-best-student-paper-award),
 [GT News II](http://www.cc.gatech.edu/news/591162/trillion-edge-graph-single-accelerated-node),
 [The Morning Paper](https://blog.acolyer.org/2017/05/30/mosaic-processing-a-trillion-edge-graph-on-a-single-machine/)
+
+### [Understanding Manycore Scalability of File Systems](./data/fxmark-atc16.pdf)
+Changwoo Min, Sanidhya Kashyap, **Steffen Maass**, Woonhak Kang, and Taesoo Kim<br />
+In Proceedings of the 2016 USENIX Annual Technical Conference (ATC16)<br />
+Denver, CO, June 2016 (Acceptance rate 19.0%)
 
 ## Posters
 
