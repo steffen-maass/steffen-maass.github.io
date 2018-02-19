@@ -5,6 +5,16 @@ technology, advised by [Dr.Taesoo Kim](https://taesoo.gtisc.gatech.edu/).
 My research interests include Distributed Systems, Computer Networks, Operating
 Systems, and Graph Processing.
 
+## News
+
+* [02/06/2018] Mosaic won the best contribution award at OBD'18\!
+* [11/14/2017] LATR got accepted at ASPLOS'18\!
+* [06/02/2017] The source code of Mosaic is available on Github
+* [05/30/2017] A nice summary of Mosaic was featured in The Morning Paper
+* [04/24/2017] News coverage for Mosaic: TheNextPlatform, Hacker News, Georgia Tech News
+* [04/24/2017] Mosaic won the best student paper award at EuroSys'17\!
+* [01/23/2017] Mosaic got accepted at EuroSys'17\!
+
 ## Publications
 
 ### SOLROS: A Data-Centric Operating System Architecture for Heterogeneous Computing (to appear)
