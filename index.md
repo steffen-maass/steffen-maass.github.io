@@ -26,7 +26,8 @@ Porto, Portugal, April 2018 (Acceptance rate 16.4%).<br />
 Mohan Kumar\*, **Steffen Maass\***, Sanidhya Kashyap, Jan Vesely, Zi Yan, Taesoo Kim, Abhishek Bhattacharjee, and Tushar Krishna.<br />
 In proceedings of the _23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2018)_.<br />
 Williamsburg, VA, USA, March 2018 (Acceptance rate 17.6%).<br />
-**\* marks joint first authors**
+**\* marks joint first authors**<br />
+[\[Paper\]](./data/latr-asplos18.pdf)
 
 ### [Mosaic: Processing a Trillion-Edge Graph on a Single Commodity Machine](./data/mosaic-eurosys17.pdf)
 **Steffen Maass**, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim.<br />
