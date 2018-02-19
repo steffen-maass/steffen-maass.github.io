@@ -71,7 +71,6 @@
               $('a').on("click", function(){
                 // get the link attribute and find the filename of the PDF
                 var pdfLink = $(this).attr("href"), pdfLocation = pdfLink.substr(pdfLink.lastIndexOf("/")).replace("/","");
-                alert(pdflink);
                 ga('send', 'event');
                 _gaq.push(['_trackPageview', pdfLocation]);
               });
