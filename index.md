@@ -12,7 +12,7 @@ Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, H
 In Proceedings of the thirteenth European conference on computer systems (EuroSys 2018), Porto, Portugal.<br />
 (acceptance rate of 16.4%) To appear.<br />
 
-[LATR: Lazy Translation Coherence (to appear)<br />](./data/latr-asplos18.pdf)
+######[LATR: Lazy Translation Coherence (to appear)<br />](./data/latr-asplos18.pdf)
 Mohan Kumar\*, **Steffen Maass\***, Sanidhya Kashyap, Jan Vesely, Zi Yan, Taesoo Kim, Abhishek Bhattacharjee, and Tushar Krishna.<br />
 In proceedings of the 23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2018), Williamsburg, VA, USA.<br />
 (acceptance rate of 17.6%).<br />
