@@ -21,7 +21,8 @@ In proceedings of the _23rd ACM International Conference on Architectural Suppor
 ### [Mosaic: Processing a Trillion-Edge Graph on a Single Commodity Machine<br />](./data/mosaic-eurosys17.pdf)
 **Steffen Maass**, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim.<br />
 In proceedings of the _twelfth European conference on computer systems (EuroSys 2017)_, Belgrade, Serbia.<br />
-(acceptance rate of 20.5%) Best student paper.<br />
+(acceptance rate of 20.5%)<br />
+**Awarded the <span style="color: #d9534f;">Best student paper</span> award!**
 
 ## Posters
 
