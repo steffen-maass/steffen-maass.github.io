@@ -7,12 +7,12 @@ Systems, and Graph Processing.
 
 ## News
 
-* [02/06/2018] Mosaic won the best contribution award at OBD'18\!
+* [02/06/2018] Mosaic won the **best contribution award** at OBD'18\!
 * [11/14/2017] LATR got accepted at ASPLOS'18\!
-* [06/02/2017] The source code of Mosaic is available on Github
-* [05/30/2017] A nice summary of Mosaic was featured in The Morning Paper
-* [04/24/2017] News coverage for Mosaic: TheNextPlatform, Hacker News, Georgia Tech News
-* [04/24/2017] Mosaic won the best student paper award at EuroSys'17\!
+* [06/02/2017] The source code of Mosaic is available on [Github](https://github.com/sslab-gatech/mosaic/)
+* [05/30/2017] A nice summary of Mosaic was featured in [The Morning Paper](https://blog.acolyer.org/2017/05/30/mosaic-processing-a-trillion-edge-graph-on-a-single-machine/)
+* [04/24/2017] News coverage for Mosaic: [TheNextPlatform](https://www.nextplatform.com/2017/04/27/trillion-edge-graph-single-commodity-node/), [Hacker News](https://news.ycombinator.com/item?id=14218231), [Georgia Tech News](http://www.cc.gatech.edu/news/591078/work-speed-graph-processing-earns-best-student-paper-award)
+* [04/24/2017] Mosaic won the **best student paper** award at EuroSys'17\!
 * [01/23/2017] Mosaic got accepted at EuroSys'17\!
 
 ## Publications
