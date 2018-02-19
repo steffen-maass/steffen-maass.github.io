@@ -69,7 +69,7 @@
     <script type="text/javascript">
         (function (_) {
 			jQuery(document).ready(function($) {
-              $('a').on("click", function(){
+              $("a[href*='.pdf']").on("click", function(){
                 // get the link attribute and find the filename of the PDF
                 var pdfLink = $(this).attr("href"), pdfLocation = pdfLink.substr(pdfLink.lastIndexOf("/")).replace("/","");
                 ga('send', 'event');
