@@ -23,10 +23,10 @@ In proceedings of the _23rd ACM International Conference on Architectural Suppor
 In proceedings of the _twelfth European conference on computer systems (EuroSys 2017)_, Belgrade, Serbia.<br />
 (acceptance rate of 20.5%)<br />
 **Awarded the <span style="color: #d9534f;">best student paper</span> award\!** <br />
-[Paper](http://dl.acm.org/authorize?N38846)
-[Slides](./data/mosaic-slides-eurosys17.pdf)
-[Extended Slides](./data/mosaic-talk-extended.pdf)
-[Code](https://github.com/sslab-gatech/mosaic/)<br />
+[\[Paper\]](http://dl.acm.org/authorize?N38846)
+[\{Slides\]](./data/mosaic-slides-eurosys17.pdf)
+[\{Extended Slides\]](./data/mosaic-talk-extended.pdf)
+[\{Code\]](https://github.com/sslab-gatech/mosaic/)<br />
 Coverage: 
 [TheNextPlatform](https://www.nextplatform.com/2017/04/27/trillion-edge-graph-single-commodity-node/),
 [Hacker News](https://news.ycombinator.com/item?id=14218231),
