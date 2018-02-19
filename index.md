@@ -29,12 +29,13 @@ In proceedings of the _twelfth European conference on computer systems (EuroSys 
 [Extended Slides](./data/mosaic-talk-extended.pdf)
 [Code](https://github.com/sslab-gatech/mosaic/)<br />
 
-Coverage:
-<a href="https://www.nextplatform.com/2017/04/27/trillion-edge-graph-single-commodity-node/">TheNextPlatform</a>,
-<a href="https://news.ycombinator.com/item?id=14218231">Hacker News</a>,
-<a href="https://news.ycombinator.com/item?id=14443398">HN II</a>,
-<a href="http://www.cc.gatech.edu/news/591078/work-speed-graph-processing-earns-best-student-paper-award">Georgia Tech News I</a>
-<a href="http://www.cc.gatech.edu/news/591162/trillion-edge-graph-single-accelerated-node">, GT News II</a>,<br>
+Coverage: 
+[TheNextPlatform](https://www.nextplatform.com/2017/04/27/trillion-edge-graph-single-commodity-node/),
+[Hacker News](https://news.ycombinator.com/item?id=14218231),
+[HN II](https://news.ycombinator.com/item?id=14443398),
+[Georgia Tech News I](http://www.cc.gatech.edu/news/591078/work-speed-graph-processing-earns-best-student-paper-award),
+[GT News II](http://www.cc.gatech.edu/news/591162/trillion-edge-graph-single-accelerated-node),
+[The Morning Paper](https://blog.acolyer.org/2017/05/30/mosaic-processing-a-trillion-edge-graph-on-a-single-machine/)
 
 ## Posters
 
