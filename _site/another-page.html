@@ -74,7 +74,7 @@
                 var pdfLink = $(this).attr("href"), pdfLocation = pdfLink.substr(pdfLink.lastIndexOf("/")).replace("/","");
                 ga('send', {
                     hitType: 'pageview',
-                    page: pdfLocation
+                    page: pdfLink
                 });
               });
 			});
