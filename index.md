@@ -18,21 +18,18 @@ Systems, and Graph Processing.
 ## Publications
 
 ### [SOLROS: A Data-Centric Operating System Architecture for Heterogeneous Computing (to appear)](./data/solros-eurosy18.pdf)
-Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, Heeseung Jo, and Taesoo Kim.<br />
-In proceedings of the _thirteenth European conference on computer systems (EuroSys 2018)_, <br />
-Porto, Portugal, April 2018 (Acceptance rate 16.4%).<br />
+Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, Heeseung Jo, and Taesoo Kim.\
+_EuroSys'18_, Porto, Portugal. April 2018 (Acceptance rate 16.4%).
 
 ### [LATR: Lazy Translation Coherence (to appear)](./data/latr-asplos18.pdf)
 Mohan Kumar\*, **Steffen Maass\***, Sanidhya Kashyap, Jan Vesely, Zi Yan, Taesoo Kim, Abhishek Bhattacharjee, and Tushar Krishna.<br />
-In proceedings of the _23rd ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2018)_.<br />
-Williamsburg, VA, USA, March 2018 (Acceptance rate 17.6%).<br />
+_ASPLOS'18_, Williamsburg, VA, USA. March 2018 (Acceptance rate 17.6%).<br />
 **\* marks joint first authors**<br />
 [\[Paper\]](./data/latr-asplos18.pdf)
 
 ### [Mosaic: Processing a Trillion-Edge Graph on a Single Commodity Machine](./data/mosaic-eurosys17.pdf)
 **Steffen Maass**, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim.<br />
-In proceedings of the _twelfth European conference on computer systems (EuroSys 2017)_<br />
-Belgrade, Serbia, April 2017 (Acceptance rate 20.5%)<br />
+_EuroSys'17_, Belgrade, Serbia. April 2017 (Acceptance rate 20.5%)<br />
 **Awarded the <span style="color: #d9534f;">best student paper</span> award\!** <br />
 [\[Paper\]](http://dl.acm.org/authorize?N38846)
 [\[Slides\]](./data/mosaic-talk-eurosys17.pdf)
@@ -48,27 +45,25 @@ Coverage:
 
 ### [Understanding Manycore Scalability of File Systems](./data/fxmark-atc16.pdf)
 Changwoo Min, Sanidhya Kashyap, **Steffen Maass**, Woonhak Kang, and Taesoo Kim<br />
-In Proceedings of the 2016 USENIX Annual Technical Conference (ATC16)<br />
-Denver, CO, June 2016 (Acceptance rate 19.0%)
+_ATC'16_, Denver, CO. June 2016 (Acceptance rate 19.0%)
 
 ## Workshop Papers
 
 ### Kaleidoscope: Graph Analytics on Evolving Graphs
 **Steffen Maass**, Taesoo Kim.<br />
-EuroDW'18 (co-located with EuroSys'18). Porto, Portugal, April 2018
+EuroDW'18 (co-located with EuroSys'18), Porto, Portugal, April 2018
 
 ## Posters
 
 ### [Mosaic: Processing a Trillion-Edge Graph on a Single Machine](./data/mosaic-poster-obd18.pdf)
 **Steffen Maass**, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim<br />
-At the _Workshop on Optimization & Big Data (OBD'18)_<br />
-KAUST, Saudi Arabia, February 2018<br />
-**Awarded the <span style="color: #d9534f;">best contribution</span> award\!** <br />
+_Workshop on Optimization & Big Data (OBD'18)_, KAUST, Saudi Arabia. February 2018<br />
+**Awarded the <span style="color: #d9534f;">best contribution</span> award\!**
 
 ### [DistCoz: Tell Me What to Optimize in My Distributed Application](./data/dist-coz-poster-nsdi17.pdf)
 **Steffen Maass**, Mohan Kumar, and Taesoo Kim<br />
-The _14th USENIX Symposium on Networked Systems Design and Implementation (NSDI'17)_ Poster, 2017, Boston, MA, USA.<br />
+_Poster @ NDSI'17_, Boston, MA. USA. March 2017
 
 ### [Network Function Fault Isolation in a Single Address Space](./data/nfv-fault-poster-nsdi17.pdf)
 Mohan Kumar, **Steffen Maass**, and Taesoo Kim<br />
-The _14th USENIX Symposium on Networked Systems Design and Implementation (NSDI'17)_ Poster, 2017, Boston, MA, USA.<br />
+_Poster @ NDSI'17_, Boston, MA. USA. March 2017
