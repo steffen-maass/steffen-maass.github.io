@@ -51,6 +51,12 @@ Changwoo Min, Sanidhya Kashyap, **Steffen Maass**, Woonhak Kang, and Taesoo Kim<
 In Proceedings of the 2016 USENIX Annual Technical Conference (ATC16)<br />
 Denver, CO, June 2016 (Acceptance rate 19.0%)
 
+## Workshop Papers
+
+### Kaleidoscope: Graph Analytics on Evolving Graphs
+**Steffen Maass\***, Taesoo Kim.<br />
+EuroDW'18 (co-located with EuroSys'18). Porto, Portugal, April 2018
+
 ## Posters
 
 ### [Mosaic: Processing a Trillion-Edge Graph on a Single Machine](./data/mosaic-poster-obd18.pdf)
