@@ -18,7 +18,7 @@ Systems, and Graph Processing.
 ## Publications
 
 ### [SOLROS: A Data-Centric Operating System Architecture for Heterogeneous Computing (to appear)](./data/solros-eurosy18.pdf)
-Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, Heeseung Jo, and Taesoo Kim.\
+Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, Heeseung Jo, and Taesoo Kim.\\  
 _EuroSys'18_, Porto, Portugal. April 2018 (Acceptance rate 16.4%).
 
 ### [LATR: Lazy Translation Coherence (to appear)](./data/latr-asplos18.pdf)
