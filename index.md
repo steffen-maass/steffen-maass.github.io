@@ -18,25 +18,26 @@ Systems, and Graph Processing.
 ## Publications
 
 ### [SOLROS: A Data-Centric Operating System Architecture for Heterogeneous Computing (to appear)](./data/solros-eurosy18.pdf)
-Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, Heeseung Jo, and Taesoo Kim.  
+Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, Heeseung Jo, and Taesoo Kim.  #
 _EuroSys'18_, Porto, Portugal. April 2018.  
 Acceptance rate 16.4%
 
 ### [LATR: Lazy Translation Coherence (to appear)](./data/latr-asplos18.pdf)
 Mohan Kumar\*, **Steffen Maass\***, Sanidhya Kashyap, Jan Vesely, Zi Yan, Taesoo Kim, Abhishek Bhattacharjee, and Tushar Krishna.  
-_ASPLOS'18_, Williamsburg, VA, USA. March 2018.
+_ASPLOS'18_, Williamsburg, VA, USA. March 2018.  
 Acceptance rate 17.6%  
-**\* marks joint first authors**<br />
+**\* marks joint first authors**  
 [\[Paper\]](./data/latr-asplos18.pdf)
 
 ### [Mosaic: Processing a Trillion-Edge Graph on a Single Commodity Machine](./data/mosaic-eurosys17.pdf)
-**Steffen Maass**, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim.<br />
-_EuroSys'17_, Belgrade, Serbia. April 2017 (Acceptance rate 20.5%)<br />
-**Awarded the <span style="color: #d9534f;">best student paper</span> award\!** <br />
+**Steffen Maass**, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim.  
+_EuroSys'17_, Belgrade, Serbia. April 2017.  
+Acceptance rate 20.5%  
+**Awarded the <span style="color: #d9534f;">best student paper</span> award\!**  
 [\[Paper\]](http://dl.acm.org/authorize?N38846)
 [\[Slides\]](./data/mosaic-talk-eurosys17.pdf)
 [\[Extended Slides\]](./data/mosaic-talk-extended.pdf)
-[\[Code\]](https://github.com/sslab-gatech/mosaic/)<br />
+[\[Code\]](https://github.com/sslab-gatech/mosaic/)  
 Coverage: 
 [TheNextPlatform](https://www.nextplatform.com/2017/04/27/trillion-edge-graph-single-commodity-node/),
 [Hacker News](https://news.ycombinator.com/item?id=14218231),
