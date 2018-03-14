@@ -54,7 +54,7 @@ Denver, CO, June 2016 (Acceptance rate 19.0%)
 ## Workshop Papers
 
 ### Kaleidoscope: Graph Analytics on Evolving Graphs
-**Steffen Maass\***, Taesoo Kim.<br />
+**Steffen Maass**, Taesoo Kim.<br />
 EuroDW'18 (co-located with EuroSys'18). Porto, Portugal, April 2018
 
 ## Posters
