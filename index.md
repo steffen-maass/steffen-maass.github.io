@@ -1,7 +1,7 @@
 ## About me
 
 I am a 4th year Ph.D. student in the School of Computer Science at Georgia Institute of
-technology, advised by [Dr.Taesoo Kim](https://taesoo.gtisc.gatech.edu/).
+technology, advised by [Dr.Taesoo Kim](https://taesoo.kim/).
 My research interests include Distributed Systems, Computer Networks, Operating
 Systems, and Graph Processing.
 
