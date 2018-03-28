@@ -29,6 +29,7 @@ _ASPLOS'18_, Williamsburg, VA, USA. March 2018.
 Acceptance rate 17.6%  
 **\* marks joint first authors**  
 [\[Paper\]](./data/latr-asplos18.pdf)
+[\[Slides\]](./data/latr-talk-asplos18.pdf)
 [\[Lightning Slides\]](./data/latr-talk-lightning-asplos18.pdf)
 
 **[Mosaic: Processing a Trillion-Edge Graph on a Single Commodity Machine](./data/mosaic-eurosys17.pdf)**  
