@@ -23,7 +23,7 @@ _EuroSys'18_, Porto, Portugal. April 2018.
 Acceptance rate 16.4%  
 [\[Paper\]](./data/solros-eurosys18.pdf)
 
-**[LATR: Lazy Translation Coherence (to appear)](./data/latr-asplos18.pdf)**  
+**[LATR: Lazy Translation Coherence](./data/latr-asplos18.pdf)**  
 Mohan Kumar\*, **Steffen Maass\***, Sanidhya Kashyap, Jan Vesely, Zi Yan, Taesoo Kim, Abhishek Bhattacharjee, and Tushar Krishna.  
 _ASPLOS'18_, Williamsburg, VA, USA. March 2018.  
 Acceptance rate 17.6%  
