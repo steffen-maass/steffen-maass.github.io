@@ -57,9 +57,11 @@ _ATC'16_, Denver, CO. June 2016 (Acceptance rate 19.0%)
 
 ## Workshop Papers
 
-**Kaleidoscope: Graph Analytics on Evolving Graphs**  
+**[Kaleidoscope: Graph Analytics on Evolving Graphs](./data/kaleidoscope-eurodw18.pdf)**  
 **Steffen Maass**, Taesoo Kim.  
-EuroDW'18 (co-located with EuroSys'18), Porto, Portugal, April 2018
+EuroDW'18 (co-located with EuroSys'18), Porto, Portugal, April 2018  
+[\[Paper\]](./data/kaleidoscope-eurodw18.pdf)
+[\[Talk\]](./data/kaleidoscope-talk-eurodw18.pdf)
 
 ## Posters
 
