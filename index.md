@@ -17,7 +17,7 @@ Systems, and Graph Processing.
 
 ## Publications
 
-**[SOLROS: A Data-Centric Operating System Architecture for Heterogeneous Computing (to appear)](./data/solros-eurosys18.pdf)**  
+**[SOLROS: A Data-Centric Operating System Architecture for Heterogeneous Computing](./data/solros-eurosys18.pdf)**  
 Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, Heeseung Jo, and Taesoo Kim.  
 _EuroSys'18_, Porto, Portugal. April 2018.  
 Acceptance rate 16.4%  
