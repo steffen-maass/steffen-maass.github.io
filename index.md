@@ -32,7 +32,7 @@ Acceptance rate 17.6%
 [\[Slides\]](./data/latr-talk-asplos18.pdf)
 [\[Lightning Slides\]](./data/latr-talk-lightning-asplos18.pdf)
 
-**[Mosaic: Processing a Trillion-Edge Graph on a Single Commodity Machine](./data/mosaic-eurosys17.pdf)**  
+**[Mosaic: Processing a Trillion-Edge Graph on a Single Machine](./data/mosaic-eurosys17.pdf)**  
 **Steffen Maass**, Changwoo Min, Sanidhya Kashyap, Woonhak Kang, Mohan Kumar, and Taesoo Kim.  
 _EuroSys'17_, Belgrade, Serbia. April 2017.  
 Acceptance rate 20.5%  
