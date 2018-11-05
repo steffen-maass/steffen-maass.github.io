@@ -1,6 +1,6 @@
 ## About me
 
-I am a 4th year Ph.D. candidate in the School of Computer Science at Georgia Institute of
+I am a Ph.D. candidate in the School of Computer Science at Georgia Institute of
 technology, advised by [Dr.Taesoo Kim](https://taesoo.kim/).
 
 My research interests include Distributed Systems, Computer Networks, Operating
