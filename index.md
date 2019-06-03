@@ -1,13 +1,15 @@
 ## About me
 
-I am a Ph.D. candidate in the School of Computer Science at Georgia Institute of
-technology, advised by [Dr.Taesoo Kim](https://taesoo.kim/).
+I recently completed my Ph.D. from the School of Computer Science at the
+Georgia Institute of technology, having been advised by [Dr.Taesoo
+Kim](https://taesoo.kim/) and am joining Google in the summer.
 
 My research interests include Distributed Systems, Computer Networks, Operating
 Systems, and Graph Processing.
 
 ## News
 
+* [04/01/2019] I defended my Ph.D. thesis\!
 * [02/06/2018] Mosaic won the **best contribution award** at OBD'18\!
 * [11/14/2017] LATR got accepted at ASPLOS'18\!
 * [06/02/2017] The source code of Mosaic is available on [Github](https://github.com/sslab-gatech/mosaic/)
@@ -78,3 +80,5 @@ _Poster @ NDSI'17_, Boston, MA. USA. March 2017
 **[Network Function Fault Isolation in a Single Address Space](./data/nfv-fault-poster-nsdi17.pdf)**  
 Mohan Kumar, **Steffen Maass**, and Taesoo Kim  
 _Poster @ NDSI'17_, Boston, MA. USA. March 2017
+
+Special greetings to my friend Uwe\!
