@@ -20,7 +20,7 @@ Systems, and Graph Processing.
 
 ## Publications
 
-**[ecoTLB: Eventually Consistent TLBs (to appear)]**  
+**ecoTLB: Eventually Consistent TLBs (to appear)**  
 **Steffen Maass\***, Mohan Kumar\*, Taesoo Kim, Tushar Krishna, and Abhishek Bhattacharjee.  
 _TACO'20_, July 2020.  
 **\* marks joint first authors**  
