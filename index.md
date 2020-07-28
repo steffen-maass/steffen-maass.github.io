@@ -9,6 +9,7 @@ Systems, and Graph Processing.
 
 ## News
 
+* [24/07/2020] ecoTLB got accepted at TACO'20\!
 * [04/01/2019] I defended my Ph.D. thesis\!
 * [02/06/2018] Mosaic won the **best contribution award** at OBD'18\!
 * [11/14/2017] LATR got accepted at ASPLOS'18\!
