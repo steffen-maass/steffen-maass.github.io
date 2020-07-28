@@ -20,6 +20,11 @@ Systems, and Graph Processing.
 
 ## Publications
 
+**[ecoTLB: Eventually Consistent TLBs (to appear)]**  
+**Steffen Maass\***, Mohan Kumar\*, Taesoo Kim, Tushar Krishna, and Abhishek Bhattacharjee.  
+_TACO'20_, July 2020.  
+**\* marks joint first authors**  
+
 **[SOLROS: A Data-Centric Operating System Architecture for Heterogeneous Computing](./data/solros-eurosys18.pdf)**  
 Changwoo Min, Woon-Hak Kang, Mohan Kumar, Sanidhya Kashyap, **Steffen Maass**, Heeseung Jo, and Taesoo Kim.  
 _EuroSys'18_, Porto, Portugal. April 2018.  
