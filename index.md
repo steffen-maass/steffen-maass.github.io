@@ -1,7 +1,10 @@
 ## About me
 
-I recently completed my Ph.D. from the School of Computer Science at the
-Georgia Institute of technology, having been advised by [Dr.Taesoo
+I am a Senior Software Engineer at Google, working on [GSLB, Google's Global
+Software Load Balancer](https://sre.google/workbook/managing-load/).
+
+I completed my Ph.D. from the School of Computer Science at the
+Georgia Institute of Technology in 2019, having been advised by [Dr.Taesoo
 Kim](https://taesoo.kim/) and am joining Google in the summer.
 
 My research interests include Distributed Systems, Computer Networks, Operating
@@ -9,7 +12,7 @@ Systems, and Graph Processing.
 
 ## News
 
-* [24/07/2020] ecoTLB got accepted at TACO'20\!
+* [07/24/2020] ecoTLB got accepted at TACO'20\!
 * [04/01/2019] I defended my Ph.D. thesis\!
 * [02/06/2018] Mosaic won the **best contribution award** at OBD'18\!
 * [11/14/2017] LATR got accepted at ASPLOS'18\!
