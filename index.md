@@ -5,7 +5,7 @@ Software Load Balancer](https://sre.google/workbook/managing-load/).
 
 I completed my Ph.D. from the School of Computer Science at the
 Georgia Institute of Technology in 2019, having been advised by [Dr.Taesoo
-Kim](https://taesoo.kim/) and am joining Google in the summer.
+Kim](https://taesoo.kim/).
 
 My research interests include Distributed Systems, Computer Networks, Operating
 Systems, and Graph Processing.
