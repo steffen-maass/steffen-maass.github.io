@@ -1,6 +1,6 @@
 ## About me
 
-I am a Senior Software Engineer at Google, working on [GSLB, Google's Global
+I am a Staff Software Engineer at Google, working on [GSLB, Google's Global
 Software Load Balancer](https://sre.google/workbook/managing-load/).
 
 I completed my Ph.D. from the School of Computer Science at the
